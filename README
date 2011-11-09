@@ -1,0 +1,16 @@
+
+## what?
+lightweight twitter client to post tweets from cli 
+
+## why?
+functions as handler for posting specified callbacks from app interface
+
+## how?
+provide credentials via a file at ~/.tweet 
+usage = $ tweet "parsed data from callback to post"
+
+
+
+
+
+
